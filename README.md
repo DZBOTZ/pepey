@@ -1,4 +1,5 @@
  //━━━━━━━━━━━━━━━[ ᴄᴏᴍᴍᴀɴᴅ ᴛᴇʀᴍᴜx ]━━━━━━━━━━━━━━━\\
+ 
  $ pkg upgrade && pkg update
  $ pkg install nodejs
  $ pkg install yarn
@@ -21,6 +22,7 @@
  $ pm2 save
  $ pm2 monit 
  //━━━━━━━━━━━━━━━[ ᴜᴘʟᴏᴀᴅ ᴛᴏ ʜᴇʀᴏᴋᴜ ]━━━━━━━━━━━━━━━\\
+ 
  $ pkg update
  $ pkg upgrade
  $ pkg install yarn
