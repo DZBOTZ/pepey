@@ -1,4 +1,4 @@
- //━━━━━━━━━━━━━━━[ ᴄᴏᴍᴍᴀɴᴅ ᴛᴇʀᴍᴜx ]━━━━━━━━━━━━━━━\\
+━━━━━━━━━━━━━━━[ ᴄᴏᴍᴍᴀɴᴅ ᴛᴇʀᴍᴜx ]━━━━━━━━━━━━━━━
  
  $ pkg upgrade && pkg update
  $ pkg install nodejs
@@ -21,7 +21,7 @@
  $ pm2 start index.js
  $ pm2 save
  $ pm2 monit 
- //━━━━━━━━━━━━━━━[ ᴜᴘʟᴏᴀᴅ ᴛᴏ ʜᴇʀᴏᴋᴜ ]━━━━━━━━━━━━━━━\\
+ ━━━━━━━━━━━━━━━[ ᴜᴘʟᴏᴀᴅ ᴛᴏ ʜᴇʀᴏᴋᴜ ]━━━━━━━━━━━━━━━
  
  $ pkg update
  $ pkg upgrade
@@ -36,5 +36,5 @@
  $ git commit -m "namafile"
  $ git push heroku master
  
-  //━━━━━━━━━━━━━━━[ ɴᴏᴛᴇ ]━━━━━━━━━━━━━━━\\
+  ━━━━━━━━━━━━━━━[ ɴᴏᴛᴇ ]━━━━━━━━━━━━━━━
  NOTE : Script No Enc Silahkan Ke Owner, Ada Dua Tipe Script, Script Ini Dan Pribadi Owner, Ada Kualitas Ada Harga.
